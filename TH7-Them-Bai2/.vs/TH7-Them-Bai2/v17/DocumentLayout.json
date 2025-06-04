@@ -1,42 +1,15 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\XuLySTUDENT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|solutionrelative:TH7-Them-Bai2\\XuLySTUDENT.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\STUDENT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|solutionrelative:TH7-Them-Bai2\\STUDENT.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\XuLyListStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|solutionrelative:TH7-Them-Bai2\\XuLyListStudent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.43.34808\\INCLUDE\\VECTOR||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|C:\\PROGRAM FILES\\MICROSOFT VISUAL STUDIO\\2022\\COMMUNITY\\VC\\TOOLS\\MSVC\\14.43.34808\\INCLUDE\\__MSVC_BIT_UTILS.HPP||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\ListStudent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|solutionrelative:TH7-Them-Bai2\\ListStudent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\TH7-Them-Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4C917CE-8666-4CC8-82F0-487D6F1CE176}|TH7-Them-Bai2\\TH7-Them-Bai2.vcxproj|solutionrelative:TH7-Them-Bai2\\TH7-Them-Bai2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 208,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 224,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,108 +18,11 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "XuLySTUDENT.cpp",
-              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\XuLySTUDENT.cpp",
-              "RelativeDocumentMoniker": "TH7-Them-Bai2\\XuLySTUDENT.cpp",
-              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\XuLySTUDENT.cpp",
-              "RelativeToolTip": "TH7-Them-Bai2\\XuLySTUDENT.cpp",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAtwJIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-27T23:59:14.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "XuLyListStudent.cpp",
-              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\XuLyListStudent.cpp",
-              "RelativeDocumentMoniker": "TH7-Them-Bai2\\XuLyListStudent.cpp",
-              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\XuLyListStudent.cpp",
-              "RelativeToolTip": "TH7-Them-Bai2\\XuLyListStudent.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-27T23:55:47.315Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 174,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "__msvc_bit_utils.hpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\__msvc_bit_utils.hpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\__msvc_bit_utils.hpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\__msvc_bit_utils.hpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\__msvc_bit_utils.hpp",
-              "ViewState": "AgIAAIABAAAAAAAAAAAtwIwBAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-03T12:24:21.967Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "vector",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\vector",
-              "ViewState": "AgIAAGsPAAAAAAAAAAAtwHcPAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-03T12:24:20.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListStudent.h",
-              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\ListStudent.h",
-              "RelativeDocumentMoniker": "TH7-Them-Bai2\\ListStudent.h",
-              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\ListStudent.h",
-              "RelativeToolTip": "TH7-Them-Bai2\\ListStudent.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-27T23:55:33.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "STUDENT.h",
-              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\STUDENT.h",
-              "RelativeDocumentMoniker": "TH7-Them-Bai2\\STUDENT.h",
-              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\STUDENT.h",
-              "RelativeToolTip": "TH7-Them-Bai2\\STUDENT.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-27T23:53:13.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TH7-Them-Bai2.cpp",
-              "DocumentMoniker": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\TH7-Them-Bai2.cpp",
-              "RelativeDocumentMoniker": "TH7-Them-Bai2\\TH7-Them-Bai2.cpp",
-              "ToolTip": "C:\\Users\\totha\\source\\repos\\TH7-TH8-24521207\\TH7-Them-Bai2\\TH7-Them-Bai2\\TH7-Them-Bai2.cpp",
-              "RelativeToolTip": "TH7-Them-Bai2\\TH7-Them-Bai2.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-03T04:42:02.26Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 218,
+          "DockedWidth": 158,
           "SelectedChildIndex": -1,
           "Children": [
             {

@@ -1,5 +1,6 @@
 ﻿  TH7-Them-Bai2.cpp
   XuLyListStudent.cpp
+C:\Users\totha\source\repos\TH7-TH8-24521207\TH7-Them-Bai2\TH7-Them-Bai2\XuLyListStudent.cpp(148,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   XuLySTUDENT.cpp
   Generating Code...
   TH7-Them-Bai2.vcxproj -> C:\Users\totha\source\repos\TH7-TH8-24521207\TH7-Them-Bai2\x64\Debug\TH7-Them-Bai2.exe

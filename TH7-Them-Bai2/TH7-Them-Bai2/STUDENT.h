@@ -30,6 +30,7 @@ public:
 	float DTB();
 	void setScholarShip(int price);
 	virtual void scholarShip() = 0;
+	int getCode();
 };
 
 class SVCQ : public STUDENT 
@@ -40,6 +41,7 @@ public:
 	SVCQ() { this->type = true; } // type true la SVCQ, false la SVLT
 	void Input() override;
 	void scholarShip() override;
+	int getDRL() { return DRL; }
 };
 
 class SVLT : public STUDENT 
@@ -50,4 +52,5 @@ public:
 	SVLT() { this->type = false; } // type true la SVCQ, false la SVLT
 	void Input() override;
 	void scholarShip() override;
+	int getSBV() { return SBV; }
 };

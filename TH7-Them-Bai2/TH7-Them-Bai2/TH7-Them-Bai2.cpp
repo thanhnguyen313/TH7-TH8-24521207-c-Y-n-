@@ -33,20 +33,38 @@ int main()
         {
         case 0:     // Thoat chuong trinh
             return 0;
-        case 1:     //Danh sachs cac thi sinh va hoc bong tuong ung
+        case 1:     //Danh sachs cac sinh vien va hoc bong tuong ung
             list.listStudentWithScholarShip();
             break;
-        //case 2:     //Danh sach cac thi sinh co tong diem > 15
-        //    list.listStudentThatSumOver15();
-        //    break;
-        //case 3:     //Thi sinh co tong diem cao nhat
-        //    list.studentThatHaveMaxScore();
-        //    break;
-        //case 4:
-        //{
-        //    list.listStudentDecrease();
-        //    break;
-        //}
+        case 2:     //Danh sach cac SVCQ co DRL la 100
+            list.listStudentThatDRLMaxScore();
+            break;
+        case 3:     //Thi sinh co tong diem cao nhat
+            list.listStudentThatHaveNoSBV();
+            break;
+        case 4:
+            list.totalScholarShip();
+            break;
+        case 5:
+            list.DTBOfStudentThatHaveScholarShip();
+            break;
+        case 6:
+            list.listSVLTHaveNoSBVAndHaveHightScore();
+            break;
+        case 7:
+            list.listSVCQHaveDTBMaxScore();
+            break;
+        case 8:
+            list.listStudentSortByCode();
+            break;
+        case 9:
+            list.addStudent();
+            break;
+        case 10:
+            list.removeStudent();
+            break;
+        case 11:
+            break;
         default:
             break;
         }

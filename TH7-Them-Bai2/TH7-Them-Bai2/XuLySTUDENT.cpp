@@ -168,3 +168,4 @@ void SVLT::scholarShip()
     else if (DTB >= 9) this->setScholarShip(1500000);
     else this->setScholarShip(0);
 }
+int STUDENT::getCode() { return this->code; }
